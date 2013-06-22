@@ -1,0 +1,5 @@
+C:\Users\Zerophase\Desktop\CleanCode_Args\CleanCode_Args\bin\Debug\CleanCode_Args.exe
+C:\Users\Zerophase\Desktop\CleanCode_Args\CleanCode_Args\bin\Debug\CleanCode_Args.pdb
+C:\Users\Zerophase\Desktop\CleanCode_Args\CleanCode_Args\obj\x86\Debug\1 - CleanCode_Args.csprojResolveAssemblyReference.cache
+C:\Users\Zerophase\Desktop\CleanCode_Args\CleanCode_Args\obj\x86\Debug\CleanCode_Args.exe
+C:\Users\Zerophase\Desktop\CleanCode_Args\CleanCode_Args\obj\x86\Debug\CleanCode_Args.pdb

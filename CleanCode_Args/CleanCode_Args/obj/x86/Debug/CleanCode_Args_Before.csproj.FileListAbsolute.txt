@@ -1,0 +1,5 @@
+c:\users\morgan\documents\visual studio 2010\Projects\CleanCode_Args\CleanCode_Args\bin\Debug\CleanCode_Args_Before.exe
+c:\users\morgan\documents\visual studio 2010\Projects\CleanCode_Args\CleanCode_Args\bin\Debug\CleanCode_Args_Before.pdb
+c:\users\morgan\documents\visual studio 2010\Projects\CleanCode_Args\CleanCode_Args\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\morgan\documents\visual studio 2010\Projects\CleanCode_Args\CleanCode_Args\obj\x86\Debug\CleanCode_Args_Before.exe
+c:\users\morgan\documents\visual studio 2010\Projects\CleanCode_Args\CleanCode_Args\obj\x86\Debug\CleanCode_Args_Before.pdb

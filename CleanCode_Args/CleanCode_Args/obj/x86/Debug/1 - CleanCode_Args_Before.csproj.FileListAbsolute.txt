@@ -1,0 +1,2 @@
+C:\Users\Morgan\Documents\Visual Studio 2010\Projects\CleanCode_Args\CleanCode_Args\obj\x86\Debug\CleanCode_Args.exe
+C:\Users\Morgan\Documents\Visual Studio 2010\Projects\CleanCode_Args\CleanCode_Args\obj\x86\Debug\CleanCode_Args.pdb
